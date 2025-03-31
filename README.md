@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Nothing at the moment
+- 🔭 I’m currently working on Graduating
+- 🌱 I’m currently learning about Software Engineering 
+- 💬 Ask me about things
